@@ -1,0 +1,39 @@
+.text{
+    text-align: center;
+    color: white;
+    background-color: #2edbfd;
+    height: 200px;
+    padding-top: 70px;
+    box-sizing: border-box;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.text2{
+     text-align: center;
+     color: white;
+     background-color: #2edbfd;
+     height: 600px;
+     padding-top: 70px;
+     box-sizing: border-box;
+     font-size: 30px;
+     margin-top: 30px;
+ }
+
+.tex{
+    margin-left: 100px;
+    width:550px;
+    height: 450px;
+    background-color: white;
+}
+.harf{
+    background-color: darkred;
+    height: 50px;
+    text-align: center;
+    margin-left:10px;
+}
+.harf2{
+    background-color: #297938;
+    height: 50px;
+    text-align: center;
+    margin-left: -10px;
+}
